@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+<html>
+  <head>
+  </head>
+  <body>
+    <ol>
+      <li>Chrome</li>
+      <li>Mozilla</li>
+    </ol>
+  </body>
