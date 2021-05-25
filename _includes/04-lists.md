@@ -2,8 +2,8 @@
   <head>
   </head>
   <body>
-    <ol>
-      <li>Chrome</li>
+    <ul>
+      <li> Chrome</li>
       <li>Mozilla</li>
-    </ol>
+    </ul>
   </body>
